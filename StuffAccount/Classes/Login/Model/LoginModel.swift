@@ -1,5 +1,5 @@
 //
-//  NavToolView.swift
+//  LoginModel.swift
 //  StuffAccount
 //
 //  Created by 张东东 on 2017/4/12.
@@ -8,13 +8,6 @@
 
 import UIKit
 
-
-protocol NavToolViewDelegate {
-    
-}
-
-class NavToolView: UIView {
-    
-    
+class LoginModel: NSObject {
 
 }
